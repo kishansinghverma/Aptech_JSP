@@ -1,0 +1,7 @@
+Static Website with User Login Support 
+
+*Requires Netbeans 8 or higher to run.
+Unzip the project files
+Import the project files in netbeans
+run on click
+Credentials kishan/1234
